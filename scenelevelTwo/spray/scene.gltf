@@ -1,0 +1,485 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 609,
+      "max": [
+        0.98520183563232422,
+        4.0526251792907715,
+        0.98520183563232422
+      ],
+      "min": [
+        -0.98520195484161377,
+        2.3861141204833984,
+        -0.98520231246948242
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7308,
+      "componentType": 5126,
+      "count": 609,
+      "max": [
+        0.99998563528060913,
+        1,
+        0.99998551607131958
+      ],
+      "min": [
+        -0.99998557567596436,
+        -1,
+        -0.99998557567596436
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 609,
+      "max": [
+        1,
+        0.9433739185333252,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.94337385892868042,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 609,
+      "max": [
+        0.97079873085021973,
+        0.97352719306945801
+      ],
+      "min": [
+        0.0077185630798339844,
+        0.50922644138336182
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4872,
+      "componentType": 5126,
+      "count": 609,
+      "max": [
+        0.97079873085021973,
+        0.97352719306945801
+      ],
+      "min": [
+        0.0077185630798339844,
+        0.50922644138336182
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2640,
+      "max": [
+        608
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14616,
+      "componentType": 5126,
+      "count": 4253,
+      "max": [
+        1.0206916332244873,
+        6.5271286964416504,
+        1.0206916332244873
+      ],
+      "min": [
+        -1.0206916332244873,
+        -0.99999988079071045,
+        -1.020691990852356
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 65652,
+      "componentType": 5126,
+      "count": 4253,
+      "max": [
+        1,
+        0.99999982118606567,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 9744,
+      "componentType": 5126,
+      "count": 4253,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99999821186065674,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9744,
+      "componentType": 5126,
+      "count": 4253,
+      "max": [
+        1,
+        0.72919261455535889
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 43768,
+      "componentType": 5126,
+      "count": 4253,
+      "max": [
+        1,
+        0.72919261455535889
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10560,
+      "componentType": 5125,
+      "count": 20988,
+      "max": [
+        4252
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Cosche (https://sketchfab.com/Cosche)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/salon-hairspray-95df2c3b3f6742e3ac66fc70189ff0ae",
+      "title": "Salon Hairspray"
+    },
+    "generator": "Sketchfab-8.27.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 94512,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 77792,
+      "byteOffset": 94512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 116688,
+      "byteOffset": 172304,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 77792,
+      "byteOffset": 288992,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 366784,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/mHairspray_baseColor.png"
+    },
+    {
+      "uri": "textures/mHairspray_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/mHairspray_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "mHairspray",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "smHairSpray_Cap_mHairspray_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "smHairSpray_Bottom_mHairspray_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "6fda7d642fb247239b3e666b2329bdf8.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        7
+      ],
+      "matrix": [
+        0.46495285630226135,
+        0,
+        0,
+        0,
+        0,
+        0.46495285630226135,
+        0,
+        0,
+        0,
+        0,
+        0.46495285630226135,
+        0,
+        -0.26098096370697021,
+        0.46120065450668335,
+        0.20214384794235229,
+        1
+      ],
+      "name": "smHairSpray"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        1.2246467991473532e-16,
+        0,
+        0,
+        -1.2246467991473532e-16,
+        -1,
+        0,
+        2.0069072246551514,
+        3.046489953994751,
+        -0.38088762760162354,
+        1
+      ],
+      "name": "smHairSpray_Cap"
+    },
+    {
+      "mesh": 0,
+      "name": "smHairSpray_Cap_mHairspray_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.86893281985627147,
+        0,
+        -0.49493005018550701,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.49493005018550701,
+        0,
+        0.86893281985627147,
+        0,
+        -0.61059832572937012,
+        -1.7763568394002505e-15,
+        -0.60286688804626465,
+        1
+      ],
+      "name": "smHairSpray_Bottom"
+    },
+    {
+      "mesh": 1,
+      "name": "smHairSpray_Bottom_mHairspray_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+

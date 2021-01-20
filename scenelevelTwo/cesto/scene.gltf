@@ -1,0 +1,418 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2054,
+      "max": [
+        0.75130999088287354,
+        0.72143000364303589,
+        1.4727599620819092
+      ],
+      "min": [
+        -0.75818002223968506,
+        -0.72334998846054077,
+        -1.2859799861907959
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24648,
+      "componentType": 5126,
+      "count": 2054,
+      "max": [
+        1,
+        0.99993205070495605,
+        0.99999958276748657
+      ],
+      "min": [
+        -1,
+        -0.99912559986114502,
+        -0.99999958276748657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 12360,
+      "max": [
+        2053
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 49296,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.81875002384185791,
+        0.056249998509883881,
+        1.753119945526123
+      ],
+      "min": [
+        -0.83125001192092896,
+        -0.056249998509883881,
+        -1.7531299591064453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52812,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 49440,
+      "componentType": 5125,
+      "count": 768,
+      "max": [
+        292
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 56328,
+      "componentType": 5126,
+      "count": 301,
+      "max": [
+        0.74374997615814209,
+        0.056249998509883881,
+        1.753119945526123
+      ],
+      "min": [
+        -0.73124998807907104,
+        -0.056249998509883881,
+        -1.7531299591064453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 59940,
+      "componentType": 5126,
+      "count": 301,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 52512,
+      "componentType": 5125,
+      "count": 768,
+      "max": [
+        300
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "sleepyjoshua (https://sketchfab.com/sleepyjoshua)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/46e0b9cebba34f99964b44d6eaa839f3",
+      "title": "Clothes Hamper"
+    },
+    "generator": "Sketchfab-3.32.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 55584,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 63552,
+      "byteOffset": 55584,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 119136,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.66941502271738584,
+            0.63616140444428815,
+            0.60389188239391833,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0.74540420949999997,
+            0.7083757799,
+            0.67244315700000001
+          ]
+        }
+      },
+      "name": "Hamper.Cloth"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.57758044040000001,
+            0.45641102319999999,
+            0.36130677979999998,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0.57758044040000001,
+            0.45641102319999999,
+            0.36130677979999998
+          ]
+        }
+      },
+      "name": "Hamper.Wood"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hamper.Cloth_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Hamper.Outside.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Hamper.Outside.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.29086000000000006,
+        0.95517000000000007,
+        -0.05519000000000001,
+        0,
+        -0.77110000000000001,
+        -0.19988000000000003,
+        0.60452000000000006,
+        0,
+        0.56639000000000006,
+        0.21839000000000003,
+        0.7946700000000001,
+        0,
+        4.0762500000000008,
+        1.00545,
+        5.9038600000000008,
+        1
+      ],
+      "name": "Lamp"
+    },
+    {
+      "name": "Lamp"
+    },
+    {
+      "children": [
+        6,
+        7,
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1.6244400000000001,
+        1
+      ],
+      "name": "Hamper.Cloth"
+    },
+    {
+      "mesh": 0,
+      "name": "Hamper.Cloth_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.91354999999999997,
+        0.40673999999999999,
+        0,
+        0,
+        -0.40673999999999999,
+        0.91354999999999997,
+        0,
+        0,
+        0,
+        -0,
+        1
+      ],
+      "name": "Hamper.Outside.001"
+    },
+    {
+      "mesh": 1,
+      "name": "Hamper.Outside.001_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        -1,
+        0,
+        0,
+        0,
+        -0,
+        -0.91354999999999997,
+        0.40673999999999999,
+        0,
+        0,
+        0.40673999999999999,
+        0.91354999999999997,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Hamper.Outside.002"
+    },
+    {
+      "mesh": 2,
+      "name": "Hamper.Outside.002_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
