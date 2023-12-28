@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-    
-<head>
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="style.css" />
     <title>Secret Punk</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <canvas id="webGLCanvas"></canvas>
-    <!-- Permite criar e renderizar scenários 3D -->
-    <script type="module" src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
 
-    <!-- Permite importar modelos 3D com formato GLTF -->
-    <script type="module" src="https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js"></script>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.121.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.121.0/examples/jsm/"
+        }
+      }
+    </script>
 
     <script type="module" src="libs/pointerlock.js"></script>
-  
-    <script type="module" src="app.js"></script>
-</body> 
 
+    <script type="module" src="app.js"></script>
+  </body>
 </html>

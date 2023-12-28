@@ -1,5 +1,6 @@
 import { PointerLockControls } from './libs/pointerlock.js'
-import { TextGeometry } from './libs/three.module.js'
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
 
 //Animation Variables
@@ -232,7 +233,7 @@ function createFirstScene(){
     player = new THREE.Mesh(geometry, material)
     scene.add(player)
 
-    loader = new THREE.GLTFLoader()
+    loader = new GLTFLoader()
 
     /* Carregar a sala */
     loader.load("sceneLevelOne/house/scene.gltf", function(gltf) {
